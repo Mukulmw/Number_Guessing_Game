@@ -1,7 +1,7 @@
 import random
 
 number = random.randint(1, 100)
-print(number)
+#print(number)
 
 difficulty = input("Choose the difficulty, Hard or Easy").lower()
 lives = ""
